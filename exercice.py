@@ -19,7 +19,8 @@ def anagrams(words: list = None) -> bool:
 
 
 def contains_doubles(items: list) -> bool:
-    for i in 
+    for i in items:
+        
     return False
 
 

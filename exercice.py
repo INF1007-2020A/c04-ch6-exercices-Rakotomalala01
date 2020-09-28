@@ -19,7 +19,7 @@ def anagrams(words: list = None) -> bool:
 
 
 def contains_doubles(items: list) -> bool:
-    return False0
+    return False
 
 
 def best_grades(student_grades: dict) -> dict:

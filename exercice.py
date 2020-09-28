@@ -22,7 +22,7 @@ def contains_doubles(items: list) -> bool:
     for i in items:
         if i == i-1
         break
-    return cont
+    print ("contains ")
 
     return False
 
